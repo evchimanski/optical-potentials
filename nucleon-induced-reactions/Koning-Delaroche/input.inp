@@ -1,0 +1,4 @@
+8  16          # Znuc Anuc of target
+18.            # Energy 
+LAB             # CM for center of mass or LAB for Laboratory
+0              # q = charge of the projectile nucleon

@@ -1,0 +1,4 @@
+rm -f ./*.dat ./*.out ./a.out ./_code_el ./*.mod ./fort.*
+ifort trho.f90 -o _trho
+#sleep 1
+rm -f ./*.mod
